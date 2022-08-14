@@ -5,8 +5,16 @@ repo: wordnik-status # The name of this repository
 sites:
   - name: Wordnik Community
     url: https://www.wordnik.com/community
+    icon: https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png
   - name: Wordnik Developer
     url: https://developer.wordnik.com
+    icon: https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico
+  - name: Wordnik API (definitions)
+    url: https://api.wordnik.com/v4/word.json/cat/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=$API_KEY
+    icon: https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico
+  - name: Wordnik API (random word)
+    url: https://api.wordnik.com/v4/words.json/randomWord?hasDictionaryDef=true&maxCorpusCount=-1&minDictionaryCount=1&maxDictionaryCount=-1&minLength=5&maxLength=-1&api_key=$API_KEY
+    icon: https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

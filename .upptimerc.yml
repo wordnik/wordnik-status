@@ -13,6 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wordnik.com
   # baseUrl: /wordnik-status
+  favicon: https://status.wordnik.com/wordnik_heart_128.png
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Wordnik Status
   introTitle: "Wordnik status: site and API"

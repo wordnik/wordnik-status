@@ -16,11 +16,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Wordnik Status
   introTitle: "Wordnik status: site and API"
-  introMessage: Wordnik status checks, every 5 minutes, powered by Upptime
+  introMessage: Wordnik status checks, every 5 minutes. Need help? Email support@wordnik.com.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+    - title: Donate
+      href: https://www.wordnik.com/donate
 

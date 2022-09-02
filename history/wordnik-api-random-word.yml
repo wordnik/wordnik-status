@@ -1,7 +1,7 @@
 url: https://api.wordnik.com/v4/words.json/randomWord?hasDictionaryDef=true&maxCorpusCount=-1&minDictionaryCount=1&maxDictionaryCount=-1&minLength=5&maxLength=-1&api_key=$API_KEY
 status: up
 code: 200
-responseTime: 123
-lastUpdated: 2022-09-01T23:01:02.669Z
+responseTime: 60
+lastUpdated: 2022-09-02T23:00:59.397Z
 startTime: Sun Aug 14 2022 20:56:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

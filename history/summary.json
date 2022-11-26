@@ -4,19 +4,19 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1069,
-    "timeDay": 856,
-    "timeWeek": 1043,
-    "timeMonth": 1095,
-    "timeYear": 1069,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1068,
+    "timeDay": 892,
+    "timeWeek": 1039,
+    "timeMonth": 1092,
+    "timeYear": 1068,
     "dailyMinutesDown": {
-      "2022-11-26": 8
+      "2022-11-26": 0
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-definitions",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 347,
     "timeDay": 381,
     "timeWeek": 365,
     "timeMonth": 394,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-11-26": 0
+      "2022-11-26": 8
     }
   },
   {
@@ -62,17 +62,19 @@
     "url": "https://api.wordnik.com/v4/words.json/randomWord?hasDictionaryDef=true&maxCorpusCount=-1&minDictionaryCount=1&maxDictionaryCount=-1&minLength=5&maxLength=-1&api_key=$API_KEY",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-random-word",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 122,
-    "timeWeek": 104,
-    "timeMonth": 143,
+    "timeDay": 94,
+    "timeWeek": 99,
+    "timeMonth": 141,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 0
+    }
   }
 ]

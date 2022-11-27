@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1071,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1072,
     "timeDay": 979,
-    "timeWeek": 1065,
-    "timeMonth": 1099,
-    "timeYear": 1071,
-    "dailyMinutesDown": {
-      "2022-11-26": 10
-    }
+    "timeWeek": 1076,
+    "timeMonth": 1100,
+    "timeYear": 1072,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wordnik Developer",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 375,
-    "timeWeek": 306,
-    "timeMonth": 461,
+    "timeDay": 376,
+    "timeWeek": 315,
+    "timeMonth": 459,
     "timeYear": 335,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 348,
-    "timeDay": 412,
-    "timeWeek": 377,
-    "timeMonth": 397,
-    "timeYear": 348,
+    "time": 349,
+    "timeDay": 422,
+    "timeWeek": 390,
+    "timeMonth": 393,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2022-11-26": 17
     }
@@ -63,18 +61,16 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-random-word",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 102,
-    "timeWeek": 101,
-    "timeMonth": 140,
+    "timeWeek": 104,
+    "timeMonth": 135,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2022-11-26": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]

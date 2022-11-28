@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 979,
-    "timeWeek": 1076,
-    "timeMonth": 1100,
-    "timeYear": 1072,
+    "time": 1069,
+    "timeDay": 803,
+    "timeWeek": 1059,
+    "timeMonth": 1104,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 376,
-    "timeWeek": 315,
-    "timeMonth": 459,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 146,
+    "timeWeek": 325,
+    "timeMonth": 461,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "wordnik-api-definitions",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 349,
-    "timeDay": 422,
-    "timeWeek": 390,
-    "timeMonth": 393,
-    "timeYear": 349,
+    "time": 347,
+    "timeDay": 110,
+    "timeWeek": 384,
+    "timeMonth": 394,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2022-11-26": 17
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 102,
+    "time": 121,
+    "timeDay": 62,
     "timeWeek": 104,
-    "timeMonth": 135,
-    "timeYear": 122,
+    "timeMonth": 134,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]

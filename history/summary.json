@@ -6,18 +6,16 @@
     "slug": "wordnik-community",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 1131,
-    "timeWeek": 1010,
-    "timeMonth": 1017,
-    "timeYear": 1068,
-    "dailyMinutesDown": {
-      "2023-01-05": 10
-    }
+    "time": 1067,
+    "timeDay": 1047,
+    "timeWeek": 979,
+    "timeMonth": 1019,
+    "timeYear": 1067,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wordnik Developer",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 414,
-    "timeWeek": 276,
-    "timeMonth": 282,
+    "timeDay": 296,
+    "timeWeek": 261,
+    "timeMonth": 283,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 347,
-    "timeDay": 501,
-    "timeWeek": 335,
-    "timeMonth": 339,
+    "timeDay": 362,
+    "timeWeek": 312,
+    "timeMonth": 341,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2022-11-26": 17
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 157,
-    "timeWeek": 112,
-    "timeMonth": 113,
+    "timeDay": 118,
+    "timeWeek": 109,
+    "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {}
   }

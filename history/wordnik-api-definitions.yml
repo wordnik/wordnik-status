@@ -2,6 +2,6 @@ url: https://api.wordnik.com/v4/word.json/cat/definitions?limit=200&includeRelat
 status: up
 code: 200
 responseTime: 375
-lastUpdated: 2023-06-03T23:00:54.936Z
+lastUpdated: 2023-06-04T23:00:47.006Z
 startTime: Sun Aug 14 2022 20:56:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

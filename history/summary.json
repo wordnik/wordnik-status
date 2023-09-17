@@ -4,18 +4,20 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 862,
-    "timeWeek": 1017,
-    "timeMonth": 1155,
-    "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "time": 1106,
+    "timeDay": 5598,
+    "timeWeek": 2181,
+    "timeMonth": 1442,
+    "timeYear": 1108,
+    "dailyMinutesDown": {
+      "2023-09-17": 0
+    }
   },
   {
     "name": "Wordnik Developer",

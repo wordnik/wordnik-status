@@ -1,7 +1,7 @@
 url: https://www.wordnik.com/community
-status: up
-code: 200
-responseTime: 982
-lastUpdated: 2023-09-17T04:23:36.105Z
+status: down
+code: 504
+responseTime: 10257
+lastUpdated: 2023-09-17T07:03:57.910Z
 startTime: 2022-08-14T20:20:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>

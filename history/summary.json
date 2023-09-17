@@ -4,19 +4,19 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 1128,
-    "timeDay": 5609,
-    "timeWeek": 2869,
-    "timeMonth": 1687,
-    "timeYear": 1132,
+    "timeDay": 4733,
+    "timeWeek": 2720,
+    "timeMonth": 1674,
+    "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-09-17": 1
+      "2023-09-17": 40
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://developer.wordnik.com",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 5170,
-    "timeWeek": 1521,
-    "timeMonth": 604,
+    "timeDay": 3574,
+    "timeWeek": 1394,
+    "timeMonth": 597,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-09-17": 0
+      "2023-09-17": 40
     }
   },
   {

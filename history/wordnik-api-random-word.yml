@@ -2,6 +2,6 @@ url: https://api.wordnik.com/v4/words.json/randomWord?hasDictionaryDef=true&maxC
 status: up
 code: 200
 responseTime: 205
-lastUpdated: 2023-12-06T23:00:47.337Z
+lastUpdated: 2023-12-07T23:00:55.940Z
 startTime: 2022-08-14T20:56:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>

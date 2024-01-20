@@ -4,10 +4,10 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1135,
@@ -16,6 +16,7 @@
     "timeMonth": 1124,
     "timeYear": 1164,
     "dailyMinutesDown": {
+      "2024-01-20": 1,
       "2023-09-17": 180
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://developer.wordnik.com",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 320,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2024-01-20": 0,
       "2023-09-17": 180
     }
   },

@@ -1,7 +1,7 @@
 url: https://api.wordnik.com/v4/word.json/cat/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=$API_KEY
 status: up
 code: 200
-responseTime: 183
-lastUpdated: 2024-11-13T23:00:48.196Z
+responseTime: 122
+lastUpdated: 2024-11-14T23:00:49.064Z
 startTime: 2022-08-14T20:56:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>

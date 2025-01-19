@@ -10,17 +10,16 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.93%",
-    "time": 1126,
-    "timeDay": 1257,
-    "timeWeek": 945,
-    "timeMonth": 1089,
-    "timeYear": 1145,
+    "time": 1127,
+    "timeDay": 893,
+    "timeWeek": 958,
+    "timeMonth": 1074,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2025-01-12": 23,
       "2024-12-25": 163,
       "2024-12-23": 21,
-      "2024-03-31": 115,
-      "2024-01-20": 25
+      "2024-03-31": 115
     }
   },
   {
@@ -29,20 +28,19 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
-    "time": 414,
-    "timeDay": 432,
-    "timeWeek": 296,
-    "timeMonth": 628,
-    "timeYear": 401,
+    "time": 394,
+    "timeDay": 167,
+    "timeWeek": 292,
+    "timeMonth": 620,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-12-25": 129,
-      "2024-03-31": 115,
-      "2024-01-20": 24
+      "2024-03-31": 115
     }
   },
   {
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 425,
-    "timeWeek": 310,
-    "timeMonth": 368,
+    "timeDay": 190,
+    "timeWeek": 314,
+    "timeMonth": 358,
     "timeYear": 378,
     "dailyMinutesDown": {}
   },
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 84,
-    "timeWeek": 79,
-    "timeMonth": 148,
+    "timeDay": 140,
+    "timeWeek": 87,
+    "timeMonth": 149,
     "timeYear": 168,
     "dailyMinutesDown": {}
   }

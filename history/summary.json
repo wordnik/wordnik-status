@@ -4,7 +4,7 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1179,
     "timeYear": 1103,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-01-12": 23,
       "2024-12-25": 163,
       "2024-12-23": 21

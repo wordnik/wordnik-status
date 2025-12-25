@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1189,
-    "timeDay": 596,
-    "timeWeek": 936,
-    "timeMonth": 943,
+    "time": 1188,
+    "timeDay": 699,
+    "timeWeek": 897,
+    "timeMonth": 944,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-08-25": 24,
-      "2025-01-12": 23,
-      "2024-12-25": 163
+      "2025-01-12": 23
     }
   },
   {
@@ -33,13 +32,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 367,
-    "timeDay": 52,
-    "timeWeek": 304,
-    "timeMonth": 602,
+    "timeDay": 133,
+    "timeWeek": 289,
+    "timeMonth": 605,
     "timeYear": 376,
-    "dailyMinutesDown": {
-      "2024-12-25": 129
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wordnik API (definitions)",
@@ -53,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 80,
-    "timeWeek": 383,
+    "timeDay": 195,
+    "timeWeek": 368,
     "timeMonth": 360,
-    "timeYear": 377,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -71,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 50,
-    "timeWeek": 80,
-    "timeMonth": 97,
+    "timeDay": 33,
+    "timeWeek": 75,
+    "timeMonth": 95,
     "timeYear": 128,
     "dailyMinutesDown": {}
   }

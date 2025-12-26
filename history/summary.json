@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1188,
-    "timeDay": 699,
-    "timeWeek": 897,
-    "timeMonth": 944,
-    "timeYear": 1198,
+    "time": 1187,
+    "timeDay": 730,
+    "timeWeek": 836,
+    "timeMonth": 933,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-08-25": 24,
       "2025-01-12": 23
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 133,
-    "timeWeek": 289,
-    "timeMonth": 605,
-    "timeYear": 349,
+    "time": 366,
+    "timeDay": 164,
+    "timeWeek": 257,
+    "timeMonth": 596,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   },
   {
@@ -45,18 +45,16 @@
     "slug": "wordnik-api-definitions",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 354,
-    "timeWeek": 383,
-    "timeMonth": 365,
-    "timeYear": 378,
-    "dailyMinutesDown": {
-      "2025-12-25": 6
-    }
+    "time": 383,
+    "timeDay": 353,
+    "timeWeek": 346,
+    "timeMonth": 357,
+    "timeYear": 377,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wordnik API (random word)",
@@ -65,17 +63,15 @@
     "slug": "wordnik-api-random-word",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 75,
-    "timeWeek": 79,
-    "timeMonth": 95,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 92,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2025-12-25": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

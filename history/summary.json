@@ -43,35 +43,39 @@
     "url": "https://api.wordnik.com/v4/word.json/cat/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=$API_KEY",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-definitions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 185,
-    "timeWeek": 364,
-    "timeMonth": 359,
-    "timeYear": 375,
-    "dailyMinutesDown": {}
+    "timeDay": 115,
+    "timeWeek": 332,
+    "timeMonth": 350,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2026-01-02": 0
+    }
   },
   {
     "name": "Wordnik API (random word)",
     "url": "https://api.wordnik.com/v4/words.json/randomWord?hasDictionaryDef=true&maxCorpusCount=-1&minDictionaryCount=1&maxDictionaryCount=-1&minLength=5&maxLength=-1&api_key=$API_KEY",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-random-word",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 76,
-    "timeWeek": 81,
-    "timeMonth": 78,
-    "timeYear": 126,
-    "dailyMinutesDown": {}
+    "timeDay": 40,
+    "timeWeek": 74,
+    "timeMonth": 76,
+    "timeYear": 125,
+    "dailyMinutesDown": {
+      "2026-01-02": 0
+    }
   }
 ]

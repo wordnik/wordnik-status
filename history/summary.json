@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1181,
-    "timeDay": 1191,
-    "timeWeek": 958,
-    "timeMonth": 875,
-    "timeYear": 1190,
+    "time": 1180,
+    "timeDay": 1184,
+    "timeWeek": 941,
+    "timeMonth": 886,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-08-25": 24,
       "2025-01-12": 23
@@ -26,16 +26,16 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 496,
-    "timeWeek": 325,
-    "timeMonth": 569,
-    "timeYear": 346,
+    "timeDay": 361,
+    "timeWeek": 322,
+    "timeMonth": 575,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 382,
-    "timeDay": 557,
-    "timeWeek": 383,
-    "timeMonth": 339,
-    "timeYear": 375,
+    "time": 383,
+    "timeDay": 585,
+    "timeWeek": 382,
+    "timeMonth": 349,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2026-01-04": 69
     }
@@ -70,9 +70,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 91,
-    "timeWeek": 77,
-    "timeMonth": 73,
+    "timeDay": 95,
+    "timeWeek": 74,
+    "timeMonth": 74,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-04": 69

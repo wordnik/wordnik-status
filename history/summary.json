@@ -4,19 +4,19 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1175,
+    "time": 1176,
     "timeDay": 792,
     "timeWeek": 889,
     "timeMonth": 879,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2026-01-13": 12,
+      "2026-01-13": 1,
       "2026-01-12": 40,
       "2025-08-25": 24
     }
@@ -26,19 +26,19 @@
     "url": "https://developer.wordnik.com",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 290,
-    "timeWeek": 266,
-    "timeMonth": 563,
-    "timeYear": 347,
+    "time": 383,
+    "timeDay": 3542,
+    "timeWeek": 1352,
+    "timeMonth": 834,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2026-01-13": 12
+      "2026-01-13": 0
     }
   },
   {
@@ -48,9 +48,9 @@
     "slug": "wordnik-api-definitions",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 397,
     "timeDay": 1953,
@@ -58,7 +58,6 @@
     "timeMonth": 542,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2026-01-13": 11,
       "2026-01-12": 16,
       "2026-01-04": 69
     }

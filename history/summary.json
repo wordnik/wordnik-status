@@ -4,10 +4,10 @@
     "url": "https://www.wordnik.com/community",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/favicon.png",
     "slug": "wordnik-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1176,
@@ -16,6 +16,7 @@
     "timeMonth": 887,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2026-01-13": 2,
       "2026-01-12": 40,
       "2025-08-25": 24
     }
@@ -25,10 +26,10 @@
     "url": "https://developer.wordnik.com",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
@@ -36,18 +37,20 @@
     "timeWeek": 292,
     "timeMonth": 578,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-13": 1
+    }
   },
   {
     "name": "Wordnik API (definitions)",
     "url": "https://api.wordnik.com/v4/word.json/cat/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=$API_KEY",
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-definitions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 397,
     "timeDay": 2326,
@@ -55,6 +58,7 @@
     "timeMonth": 552,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-12": 16,
       "2026-01-04": 69
     }

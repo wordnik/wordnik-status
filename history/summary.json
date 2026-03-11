@@ -45,7 +45,7 @@
     "slug": "wordnik-api-definitions",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.85%",
     "uptimeWeek": "70.89%",
     "uptimeMonth": "84.35%",
     "uptimeYear": "96.20%",
@@ -93,7 +93,8 @@
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-02-15": 569,
-      "2026-03-10": 2876,
+      "2026-03-11": 20,
+      "2026-03-10": 2880,
       "2026-03-09": 2880,
       "2026-03-08": 2880,
       "2026-03-07": 2880,

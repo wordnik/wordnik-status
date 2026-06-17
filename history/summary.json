@@ -6,14 +6,14 @@
     "slug": "wordnik-community",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.92%",
-    "time": 1231,
-    "timeDay": 891,
-    "timeWeek": 908,
-    "timeMonth": 882,
+    "time": 1232,
+    "timeDay": 1214,
+    "timeWeek": 1013,
+    "timeMonth": 885,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-08-25": 24,
@@ -36,13 +36,13 @@
     "slug": "wordnik-developer",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 437,
-    "timeDay": 261,
-    "timeWeek": 280,
+    "timeDay": 432,
+    "timeWeek": 337,
     "timeMonth": 239,
     "timeYear": 476,
     "dailyMinutesDown": {
@@ -50,8 +50,7 @@
       "2026-04-02": 50,
       "2026-04-04": 140,
       "2026-04-07": 118,
-      "2026-04-11": 76,
-      "2026-06-15": 10
+      "2026-04-11": 76
     }
   },
   {
@@ -61,14 +60,14 @@
     "slug": "wordnik-api-definitions",
     "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "88.68%",
-    "time": 388,
-    "timeDay": 271,
-    "timeWeek": 343,
-    "timeMonth": 291,
+    "time": 389,
+    "timeDay": 452,
+    "timeWeek": 405,
+    "timeMonth": 286,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2026-01-04": 69,
@@ -117,8 +116,7 @@
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1224,
-      "2026-05-10": 39,
-      "2026-06-15": 6
+      "2026-05-10": 39
     }
   },
   {
@@ -127,16 +125,16 @@
     "icon": "https://raw.githubusercontent.com/wordnik/wordnik-status/master/assets/dev-favicon.ico",
     "slug": "wordnik-api-random-word",
     "status": "up",
-    "uptime": "93.42%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptime": "93.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "74.75%",
     "time": 155,
-    "timeDay": 267,
-    "timeWeek": 274,
-    "timeMonth": 305,
-    "timeYear": 151,
+    "timeDay": 378,
+    "timeWeek": 306,
+    "timeMonth": 290,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2026-01-04": 69,
       "2026-01-11": 1208,
@@ -238,8 +236,7 @@
       "2026-02-16": 1440,
       "2026-02-15": 256,
       "2026-05-10": 38,
-      "2026-05-18": 45,
-      "2026-06-15": 1
+      "2026-05-18": 45
     }
   }
 ]
